@@ -27,18 +27,19 @@ Step 7: Stop the program.
 ## ALGORITHM FOR TRACEROUTE_command
 1. Start the program.
 <BR>
-3. Get the frame size from the user.
-   <BR>
-5. To create the frame based on the user request.
-6. <BR>
-7. To send frames to server from the client side.
-8. <BR>
-9. If your frames reach the server, it will send ACK signal to client
-10. <BR>
+2.Get the frame size from the user.
+<BR>
+3.To create the frame based on the user request.
+<BR>
+4.To send frames to server from the client side.
+<BR>
+5.If your frames reach the server, it will send ACK signal to client
+<BR>
 otherwise it will sendNACK signal to client.
 <BR>
-11. Stop the prog
-## PROGRAM:
+6.Stop the prog
+<BR>
+##PROGRAM
 ## OUTPUT
 ## RESULT
 Thus, the python program for simulating Ping and Traceroute command was successfully executed
