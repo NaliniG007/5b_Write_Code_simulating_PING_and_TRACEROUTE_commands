@@ -25,7 +25,7 @@ Step 6:Print the results.
 Step 7: Stop the program.
 <BR>
 ## ALGORITHM FOR TRACEROUTE_command
-1. Start the program.
+1. Start the program
 <BR>
 2.Get the frame size from the user.
 <BR>
@@ -39,7 +39,7 @@ otherwise it will sendNACK signal to client.
 <BR>
 6.Stop the prog
 <BR>
-##PROGRAM
+## PROGRAM
 ## OUTPUT
 ## RESULT
 Thus, the python program for simulating Ping and Traceroute command was successfully executed
