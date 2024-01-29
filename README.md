@@ -12,26 +12,32 @@ Step 4: declare one Buffered Reader stream class object
 <BR>
 Step 5: Get the details of the server
 <BR>
- 1. length of the IP address.
+ 1.length of the IP address.
  <BR>
- 2. time required to get the details.
+ 2.Time required to get the details.
  <BR>
- 3. send packets, receive packets and lost packets.
-    <BR>
- 4. minimum, maximum and average times.
+ 3.Send packets, receive packets and lost packets.
  <BR>
-Step 6: print the results.
+ 4.Minimum, maximum and average times.
+ <BR>
+Step 6:Print the results.
 <BR>
 Step 7: Stop the program.
 <BR>
 ## ALGORITHM FOR TRACEROUTE_command
 1. Start the program.
-2. Get the frame size from the user.
-3. To create the frame based on the user request.
-4. To send frames to server from the client side.
-5. If your frames reach the server, it will send ACK signal to client
+<BR>
+3. Get the frame size from the user.
+   <BR>
+5. To create the frame based on the user request.
+6. <BR>
+7. To send frames to server from the client side.
+8. <BR>
+9. If your frames reach the server, it will send ACK signal to client
+10. <BR>
 otherwise it will sendNACK signal to client.
-6. Stop the prog
+<BR>
+11. Stop the prog
 ## PROGRAM:
 ## OUTPUT
 ## RESULT
