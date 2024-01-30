@@ -25,18 +25,13 @@ Step 6:Print the results.
 Step 7: Stop the program.
 <BR>
 ## ALGORITHM FOR TRACEROUTE_command
-1. Start the program <BR>
-2.Get the frame size from the user.
-<BR>
-3.To create the frame based on the user request.
-<BR>
-4.To send frames to server from the client side.
-<BR>
-5.If your frames reach the server, it will send ACK signal to client
-<BR>
-otherwise it will sendNACK signal to client.
-<BR>
-6.Stop the prog
+1. Start the program
+2. Get the frame size from the user.
+3. To create the frame based on the user request.
+4. To send frames to server from the client side.
+5. If your frames reach the server, it will send ACK signal to clienT.
+6. otherwise it will sendNACK signal to client.
+7. Stop the program
 
 ## PROGRAM
 
