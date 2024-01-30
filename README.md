@@ -37,10 +37,10 @@ Step 7: Stop the program.
 otherwise it will sendNACK signal to client.
 <BR>
 6.Stop the prog
-<BR>
+
 ## PROGRAM
-<BR>
+
 ## OUTPUT
-<BR>
+
 ## RESULT
 Thus, the python program for simulating Ping and Traceroute command was successfully executed
